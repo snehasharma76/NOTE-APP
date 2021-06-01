@@ -1,2 +1,2 @@
 # NOTE-APP
-Basic Note app made during an adroid development workshop!
+Basic Note app made using JAVA language during an adroid development workshop!
